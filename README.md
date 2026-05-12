@@ -1,10 +1,10 @@
 # Sistema Software FJ - Gestión de Clientes, Servicios y Reservas
 
-## 📋 Descripción
+## Descripción
 
 Sistema integral orientado a objetos desarrollado en Python con interfaz gráfica Tkinter. Permite gestionar clientes, servicios (reservas de salas, alquiler de equipos y asesorías especializadas) y reservas.
 
-## ✨ Características
+##  Características
 
 - ✅ Programación Orientada a Objetos (abstracción, herencia, polimorfismo, encapsulación)
 - ✅ Manejo robusto de excepciones personalizadas
@@ -15,7 +15,7 @@ Sistema integral orientado a objetos desarrollado en Python con interfaz gráfic
 - ✅ Creación, confirmación, cancelación y completación de reservas
 - ✅ Reportes y estadísticas en tiempo real
 
-## 🚀 Cómo ejecutar
+##  Cómo ejecutar
 
 ```bash
 python sistema_software_fj.py
