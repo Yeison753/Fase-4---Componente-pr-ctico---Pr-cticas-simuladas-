@@ -6,14 +6,14 @@ Sistema integral orientado a objetos desarrollado en Python con interfaz gráfic
 
 ##  Características
 
-- ✅ Programación Orientada a Objetos (abstracción, herencia, polimorfismo, encapsulación)
-- ✅ Manejo robusto de excepciones personalizadas
-- ✅ Logging de eventos y errores en archivo
-- ✅ Interfaz gráfica con Tkinter (4 pestañas)
-- ✅ Registro de clientes con validaciones
-- ✅ Registro de servicios especializados
-- ✅ Creación, confirmación, cancelación y completación de reservas
-- ✅ Reportes y estadísticas en tiempo real
+- Programación Orientada a Objetos (abstracción, herencia, polimorfismo, encapsulación)
+- Manejo robusto de excepciones personalizadas
+- Logging de eventos y errores en archivo
+- Interfaz gráfica con Tkinter (4 pestañas)
+- Registro de clientes con validaciones
+- Registro de servicios especializados
+- Creación, confirmación, cancelación y completación de reservas
+-  Reportes y estadísticas en tiempo real
 
 ##  Cómo ejecutar
 
