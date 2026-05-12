@@ -1,32 +1,21 @@
-# Sistema Integral de Gestión de Clientes, Servicios y Reservas
+# Sistema Software FJ - Gestión de Clientes, Servicios y Reservas
 
-**Software FJ** - Proyecto Fase 4 - Programación (213023)
+## 📋 Descripción
 
-## Descripción
+Sistema integral orientado a objetos desarrollado en Python con interfaz gráfica Tkinter. Permite gestionar clientes, servicios (reservas de salas, alquiler de equipos y asesorías especializadas) y reservas.
 
-Sistema orientado a objetos desarrollado en Python que permite gestionar clientes, servicios (reserva de salas, alquiler de equipos, asesorías especializadas) y reservas. El sistema implementa:
+## ✨ Características
 
-- Principios POO: abstracción, herencia, polimorfismo, encapsulación
-- Manejo robusto de excepciones personalizadas
-- Try/except/else/finally y encadenamiento de excepciones
-- Logging de errores y eventos
-- Sin uso de bases de datos (manejo con listas en memoria)
+- ✅ Programación Orientada a Objetos (abstracción, herencia, polimorfismo, encapsulación)
+- ✅ Manejo robusto de excepciones personalizadas
+- ✅ Logging de eventos y errores en archivo
+- ✅ Interfaz gráfica con Tkinter (4 pestañas)
+- ✅ Registro de clientes con validaciones
+- ✅ Registro de servicios especializados
+- ✅ Creación, confirmación, cancelación y completación de reservas
+- ✅ Reportes y estadísticas en tiempo real
 
-## Requisitos
-
-- Python 3.8 o superior
-- No requiere librerías externas
-
-## Estructura del Proyecto
-
-- `main.py` - Simulación principal con 10+ operaciones
-- `clases.py` - Implementación completa de todas las clases
-- `exceptions.py` - Excepciones personalizadas
-- `logger_config.py` - Configuración centralizada de logs
-- `eventos.log` - Archivo de log generado automáticamente
-- `README.md` - Documentación
-
-## Ejecución
+## 🚀 Cómo ejecutar
 
 ```bash
-python main.py
+python sistema_software_fj.py
